@@ -365,3 +365,9 @@ footer {
     }
 
 }
+
+@media (hover: hover) {
+  a:hover {
+    //fix mobile
+  }
+}
