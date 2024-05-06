@@ -231,7 +231,7 @@ footer {
 
 /* MEDIA QUERIES */
 
-@media (max-width:770px) {
+@media (max-width:768px) {
     .wrapper {
         padding-left:  20px;
         padding-right: 20px;
